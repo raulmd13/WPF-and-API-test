@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mecalux API", "Mecalux API\Mecalux API.csproj", "{7E8D98A6-0FC3-41AC-89A0-BA5274F3EE2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mecalux.Service", "Mecalux.Service\Mecalux.Service.csproj", "{7C81701F-CFE2-4FA8-B0D7-DDE7A9183141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mecalux.Models", "Mecalux.Models\Mecalux.Models.csproj", "{38D954AE-D6E6-4E6B-9CCD-7B7FF6EC2FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mecalux.Tests", "Mecalux.Tests\Mecalux.Tests.csproj", "{76CDAB76-CF51-40E9-92D9-AEDB683466FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E8D98A6-0FC3-41AC-89A0-BA5274F3EE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8D98A6-0FC3-41AC-89A0-BA5274F3EE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8D98A6-0FC3-41AC-89A0-BA5274F3EE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8D98A6-0FC3-41AC-89A0-BA5274F3EE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C81701F-CFE2-4FA8-B0D7-DDE7A9183141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C81701F-CFE2-4FA8-B0D7-DDE7A9183141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C81701F-CFE2-4FA8-B0D7-DDE7A9183141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C81701F-CFE2-4FA8-B0D7-DDE7A9183141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D954AE-D6E6-4E6B-9CCD-7B7FF6EC2FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D954AE-D6E6-4E6B-9CCD-7B7FF6EC2FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D954AE-D6E6-4E6B-9CCD-7B7FF6EC2FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D954AE-D6E6-4E6B-9CCD-7B7FF6EC2FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CDAB76-CF51-40E9-92D9-AEDB683466FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CDAB76-CF51-40E9-92D9-AEDB683466FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CDAB76-CF51-40E9-92D9-AEDB683466FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CDAB76-CF51-40E9-92D9-AEDB683466FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A6E38C-E8EA-4A28-8280-5E05D704877A}
+	EndGlobalSection
+EndGlobal

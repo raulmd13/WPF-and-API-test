@@ -1,0 +1,25 @@
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Mecalux WPF.exe
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Mecalux WPF.deps.json
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Mecalux WPF.runtimeconfig.json
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Mecalux WPF.dll
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Mecalux WPF.pdb
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\bin\Debug\net7.0-windows\Wpf.Ui.dll
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.csproj.AssemblyReference.cache
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Views\MainWindow.g.cs
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF_MarkupCompile.cache
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF_MarkupCompile.lref
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\App.baml
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Views\MainWindow.baml
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.g.resources
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.AssemblyInfoInputs.cache
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.AssemblyInfo.cs
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.csproj.CopyComplete
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.dll
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\refint\Mecalux WPF.dll
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.pdb
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\Mecalux WPF.genruntimeconfig.cache
+C:\Users\Raul\Documents\GitHub\WPF-and-API-test\WPF\obj\Debug\net7.0-windows\ref\Mecalux WPF.dll
